@@ -1,0 +1,32 @@
+nav {
+    height: 40px;
+    font-family: 'Helvetica Neue';
+    font-size: 13px;
+    background-color: rgb(43, 43, 43);
+}
+
+body {
+    font-size: 17px;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.donation {
+    padding: 10px;
+    font-size: 13px;
+    font-size: 'Helvetica Neue';
+    text-align: center;
+}
+
+#image-1 {
+    height: 30px;
+    text-align:center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a {
+    display: inline-block;
+    padding: 10px;
+}
